@@ -1,0 +1,22 @@
+H1 {
+    background-color: rgb(17, 17, 151);
+    color: rgb(16, 16, 218);
+  }
+  .one {
+    color: rebeccapurple;
+    font-size: 20px;
+    text-transform: capitalize;
+  }
+  .two {
+    background-color: rgb(233, 233, 81);
+    color: rgb(255, 255, 0);
+    font-size: 20px;
+    text-transform: capitalize;
+  }
+  .three {
+    background-color: rgb(95, 99, 99);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-transform: capitalize;
+  }
+  
